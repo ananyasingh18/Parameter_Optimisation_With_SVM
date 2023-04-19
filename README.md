@@ -47,15 +47,15 @@ Some of the attributes included in this dataset are age, job, marital status, ed
 ##we notice the best accuracy to be for S5 (i.e, sample 5) with accuracy 92 using parameters: linear,19.8,0 0.22.
 
 
-### Best Sample : S5
-### Best C: 19.8
-### Best gamma: 0.22
+#### Best Sample : S5
+#### Best C: 19.8
+#### Best gamma: 0.22
 
-### Convergence Graph
+#### Convergence Graph
 
 
-### Name: Ananya Singh
-### Roll No: 102016083
+#### Name: Ananya Singh
+#### Roll No: 102016083
 
 
 
