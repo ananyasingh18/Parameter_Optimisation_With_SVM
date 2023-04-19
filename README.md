@@ -46,7 +46,7 @@ Some of the attributes included in this dataset are age, job, marital status, ed
 
 
 
-## We notice the best accuracy to be for S5 (i.e, sample 5) with accuracy 92 using parameters: linear	2.396415	0.825749.
+### We notice the best accuracy to be for S5 (i.e, sample 5) with accuracy 92 using parameters: linear	2.396415	0.025.
 
 
 #### Best Sample : S5
