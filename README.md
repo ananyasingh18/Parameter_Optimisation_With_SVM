@@ -22,3 +22,24 @@ The banking dataset available on the UC Machine Learning Repository is a popular
 The goal of this dataset is to predict whether a customer will subscribe to a term deposit with the bank, based on their attributes. The target variable is binary, with a value of 1 indicating that the customer has subscribed to a term deposit, and a value of 0 indicating that they have not.
 
 Some of the attributes included in this dataset are age, job, marital status, education, housing loan status, and credit default status. The dataset also includes information on the last contact of the current campaign, as well as previous campaigns, such as the number of contacts made, the outcome of the previous campaign, and the time since the last contact.
+
+## Workflow
+
+
+## Output Table 
+| Samples       | Best Accuracy | Best Kernel | Best C    | Best Gamma  | 
+| ------------- |:-------------:| -----------:| --------- |:-----------:| 
+| S1            | 89 | rbf | 10.80 | 0.26 |
+| S2            | 84      |   sigmoid | 28.66 |0.44|
+| S3            | 79     |    sigmoid |46.21 |0.71|
+| S4            | 90 | linear | 7.12 |0.78|
+| S5            | 92     |   linear|19.80 |0.22|
+| S6            | 81      |    poly |20.41 |0.68|
+| S7            | 79.7      |    poly |36.84 |0.63|
+| S8            | 86      |    linear | 15.43 | 0.80|
+| S9            | 85     |    sigmoid |27.03 |0.94|
+| S10           | 84      |    sigmoid |49.15 |0.71|
+
+
+
+
