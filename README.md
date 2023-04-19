@@ -44,14 +44,17 @@ Some of the attributes included in this dataset are age, job, marital status, ed
 | S9            | 85     |    sigmoid |27.03 |0.94|
 | S10           | 84      |    sigmoid |49.15 |0.71|
 
-##we notice the best accuracy to be for S5 (i.e, sample 5) with accuracy 92 using parameters: linear,19.8,0 0.22.
+## We notice the best accuracy to be for S5 (i.e, sample 5) with accuracy 92 using parameters: linear,19.8,0 0.22.
 
 
 #### Best Sample : S5
 #### Best C: 19.8
 #### Best gamma: 0.22
 
+
 #### Convergence Graph
+
+
 
 
 #### Name: Ananya Singh
