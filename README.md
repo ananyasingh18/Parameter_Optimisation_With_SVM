@@ -33,26 +33,30 @@ Some of the attributes included in this dataset are age, job, marital status, ed
 ## Output Table 
 | Samples       | Best Accuracy | Best Kernel | Best C    | Best Gamma  | 
 | ------------- |:-------------:| -----------:| --------- |:-----------:| 
-| S1            | 89 | rbf | 10.80 | 0.26 |
-| S2            | 84      |   sigmoid | 28.66 |0.44|
-| S3            | 79     |    sigmoid |46.21 |0.71|
-| S4            | 90 | linear | 7.12 |0.78|
-| S5            | 92     |   linear|19.80 |0.22|
-| S6            | 81      |    poly |20.41 |0.68|
-| S7            | 79.7      |    poly |36.84 |0.63|
-| S8            | 86      |    linear | 15.43 | 0.80|
-| S9            | 85     |    sigmoid |27.03 |0.94|
-| S10           | 84      |    sigmoid |49.15 |0.71|
+| S1            | 92 | poly | 30.375176	| 0.037171
+| S2            | 88      |   poly | 42.639533	| 0.022289
+| S3            | 89     |    rbf |0.378948	 | 0.479710
+| S4            | 86 | rbf | 7.12 |11.022291 |	0.110948
+| S5            | 93    |   linear|2.396415	| 0.825749
+| S6            | 90      |    rbf |	20.984094	| 0.042918
+| S7            | 89.3      |    rbf | 2.984728	 | 0.080764
+| S8            | 90.6      |    linear | 3.247041|	0.137408
+| S9            | 91.3     |    rbf| 4.064076	| 0.022075
+| S10           | 86      |    rbf |21.609939	| 0.090025
 
-## We notice the best accuracy to be for S5 (i.e, sample 5) with accuracy 92 using parameters: linear,19.8,0 0.22.
+
+
+## We notice the best accuracy to be for S5 (i.e, sample 5) with accuracy 92 using parameters: linear	2.396415	0.825749.
 
 
 #### Best Sample : S5
-#### Best C: 19.8
-#### Best gamma: 0.22
+#### Best C: 2.39
+#### Best gamma: 0.025
 
 
 #### Convergence Graph
+
+<img width="964" alt="Screenshot 2023-04-20 at 2 43 42 AM" src="https://user-images.githubusercontent.com/73638083/233201505-e22b7209-86ed-46be-84e2-35c74f1432b0.png">
 
 
 
