@@ -24,7 +24,11 @@ The goal of this dataset is to predict whether a customer will subscribe to a te
 Some of the attributes included in this dataset are age, job, marital status, education, housing loan status, and credit default status. The dataset also includes information on the last contact of the current campaign, as well as previous campaigns, such as the number of contacts made, the outcome of the previous campaign, and the time since the last contact.
 
 ## Workflow
-
+Download the dataset
+Pre-process the dataset
+Split the samples in 70 : 30 for training and testing on 10 samples
+Optimise SVM using randomisation for every sample and report best accuracy and best parameters
+For the best sample plot the convergence graph
 
 ## Output Table 
 | Samples       | Best Accuracy | Best Kernel | Best C    | Best Gamma  | 
@@ -39,6 +43,9 @@ Some of the attributes included in this dataset are age, job, marital status, ed
 | S8            | 86      |    linear | 15.43 | 0.80|
 | S9            | 85     |    sigmoid |27.03 |0.94|
 | S10           | 84      |    sigmoid |49.15 |0.71|
+
+##we notice the best accuracy to be for S5 (i.e, sample 5) with accuracy 92 using parameters: linear,19.8,0 0.22
+
 
 
 
